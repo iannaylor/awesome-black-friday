@@ -546,7 +546,12 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
   </details>
 
-- <img src="assets/favicons/voiceos.png" width="16" height="16" alt=""> **[VoiceOS](https://refer.voiceos.com/bergside)** - Dictate and work across desktop apps with your voice.
+- <img src="https://shot.video/favicon.png" width="16" height="16" alt=""> **[Shot Video](https://shot.video)** - Multi-camera studio from the laptop and phones you already own, with an AI first edit.
+
+  <details>
+  <summary><strong>Black Friday: about 80% off the first year on annual billing</strong></summary>
+
+  Creator $39 (normally $190), Pro $79 ($390), Studio $159 ($790) fo- <img src="assets/favicons/voiceos.png" width="16" height="16" alt=""> **[VoiceOS](https://refer.voiceos.com/bergside)** - Dictate and work across desktop apps with your voice.
 
   <details>
   <summary><strong>Save 60% on Pro with annual billing</strong></summary>
